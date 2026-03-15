@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyautogui>=0.9.54
+pynput>=1.7.6
+Pillow>=10.0.0
+pywin32>=306
+ultralytics>=8.0.0
