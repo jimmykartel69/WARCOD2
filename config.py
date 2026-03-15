@@ -1,4 +1,4 @@
-AI_MODEL_PATH = "yolov8s.pt"    # Nano Model pour fluidité max
+AI_MODEL_PATH = "yolov8n.pt"    # Nano Model pour fluidité max
 AI_CONFIDENCE = 0.20            # Sensibilité accrue pour la longue portée
 AI_CAPTURE_SIZE = 1024          # Zone de scan élargie (Multiple de 32)
 AI_CLASSES = [0]                # Joueurs
